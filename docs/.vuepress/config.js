@@ -53,6 +53,14 @@ module.exports = {
             collapsable: false,
           }
         ]
+      },
+      {
+        title: 'leetcode',
+        path: '/pages/leetcode',
+        collapsable: false,
+        children: [
+          '/pages/leetcode/leetcode'
+        ]
       }
     ]
   }

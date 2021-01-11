@@ -5,7 +5,7 @@ heroImage: /banana_leaf.png
 heroText: dairujia的学习笔记
 tagline: 记录
 actionText: 马上进入 →
-actionLink: /pages/framework/angular/angular.md
+actionLink: /pages/about/
 features:
 - title: 框架
   details: 框架的学习与使用
