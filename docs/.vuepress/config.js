@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/learningNotes/',
   title: 'dairujia的学习笔记', // 显示在左上角的网页名称以及首页在浏览器标签上显示的title名称
   description: 'Just playing around', // meta中的描述文字，用于SEO
   // 注入到当前页面的html的<head>中的标签
